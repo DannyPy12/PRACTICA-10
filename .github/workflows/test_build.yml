@@ -44,4 +44,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/DannyPy12/PRACTICA-10:latest
+          tags: ghcr.io/dannypy12/practica-10:latest
